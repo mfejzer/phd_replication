@@ -1,0 +1,6 @@
+[submodule "reviewers_recommendation"]
+	path = reviewers_recommendation
+	url = https://github.com/mfejzer/reviewers_recommendation.git
+[submodule "tracking_buggy_files"]
+	path = tracking_buggy_files
+	url = https://github.com/mfejzer/tracking_buggy_files
