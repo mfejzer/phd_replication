@@ -4,3 +4,9 @@
 [submodule "tracking_buggy_files"]
 	path = tracking_buggy_files
 	url = https://github.com/mfejzer/tracking_buggy_files
+[submodule "contribution_analysis"]
+	path = contribution_analysis
+	url = https://github.com/mfejzer/contribution_analysis.git
+[submodule "review_bug_detection"]
+	path = review_bug_detection
+	url = https://github.com/mfejzer/review_bug_detection.git
